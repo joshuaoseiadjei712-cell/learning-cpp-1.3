@@ -1,0 +1,1 @@
+This simple C++ program demonstrates the classic algorithm for swapping the values of two integer variables (x and y) using a temporary third variable (z). It initializes x to 10 and y to 20, executes the three-step assignment swap, and prints the updated values to the console to verify that the numbers have been successfully switched.
