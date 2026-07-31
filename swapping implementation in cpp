@@ -1,0 +1,22 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+  int x = 10;
+  int y = 20;
+  int z ;
+
+  z = x;
+  x = y;
+  y = z;
+
+
+  cout << "______________ SWITCHING NUMBERS ______________\n";
+  cout << "The Value of X is now : " << x << endl;
+  cout << "The value of Y is now : " << y << endl;
+
+
+    return 0;
+}
